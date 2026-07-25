@@ -12,3 +12,5 @@ There is no need to install anything.
 You can then open the CSV file in your favorite log viewer. I use Flow CSV Viewer
 
 I used and pulled data from Google, used Gemini, a little bit of my own head,... He combined it all into one package and tried to make it as simple as possible. Therefore, there is no need to use and install any supporting program.
+https://github.com/ucukertz/x431-to-csv
+https://github.com/cubigato/thinkcar-tc-reader
