@@ -12,3 +12,5 @@ Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format.
 ​You can then open the CSV file in your favorite log viewer (I use Flow CSV Viewer).
 
 ​I gathered data from Google, used Gemini, added a bit of my own brainpower, and combined it all into one package to make it as simple as possible. Therefore, there is no need to install any supporting software.
+https://github.com/ucukertz/x431-to-csv
+https://github.com/cubigato/thinkcar-tc-reader
