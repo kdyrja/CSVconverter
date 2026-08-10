@@ -3,7 +3,7 @@ Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format.
 
 ​There is no need to install anything.
 
-​1. 	Export live data from your diagnostic tool and save it to a Windows PC (tested on Windows 10 and 11).	
+​1. 	Export live data from your diagnostic tool and save it to a Windows PC (tested on Windows 10 and 11).
 2. Download the latest version of CSVconvert and extract the ZIP file to your computer.	
 3. Start the program using ENG.bat or CZ.bat.	
 4. Drag and drop the diagnostic files into the program GUI. If you don't use the GUI, drag and drop the files directly onto CSVconverter.exe.	
