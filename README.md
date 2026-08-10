@@ -11,7 +11,8 @@ Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format.
 
 ​You can then open the CSV file in your favorite log viewer (I use Flow CSV Viewer).
 
-How to export data from your diagnostic.
+How to export data from your diagnostic: 
+
 	1) On your diagnostic open file commander. 
 	2) Go to Android > data > com.us.thindiag_plus > files > ThinkCar > ThinDiag > images and here is your log (Launch use .X431, THINKDIAG .TC) folder name is only example. 
 	3) extract your file to the computer via email, Bluetooth, cloud, flash drive,..... 
