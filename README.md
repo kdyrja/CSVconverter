@@ -17,6 +17,13 @@ How to export data from your diagnostic:
 	2) Go to Android > data > com.us.thindiag_plus > files > ThinkCar > ThinDiag > images and here is your log (Launch use .X431, THINKDIAG .TC) folder name is only example. 
 	3) extract your file to the computer via email, Bluetooth, cloud, flash drive,..... 
 
+Example of file location:
+
+	ThinkDiag+: Android > data > com.us.thindiag_plus > files > ThinkCar > ThinDiag > images 
+	Launch x431 euro tab II: cnlaunch > X431EUROTABII images
+
+
+
 ​I gathered data from Google, used Gemini, added a bit of my own brainpower, and combined it all into one package to make it as simple as possible. Therefore, there is no need to install any supporting software.
 https://github.com/ucukertz/x431-to-csv
 https://github.com/cubigato/thinkcar-tc-reader
