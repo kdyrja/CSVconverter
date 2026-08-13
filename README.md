@@ -8,6 +8,7 @@ Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format.
 	3) Start the program using ENG.bat or CZ.bat.	
 	4) Drag and drop the diagnostic files into the program GUI. If you don't use the GUI, drag and drop the files directly onto CSVconverter.exe.	
 	​5) A new file with the same name and the .csv extension will appear next to your original file in a moment.
+	6) if you don't use GUI only drag and drop file to  CSVconverter.exe 
 
 ​You can then open the CSV file in your favorite log viewer (I use Flow CSV Viewer).
 
