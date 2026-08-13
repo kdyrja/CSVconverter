@@ -21,7 +21,7 @@ Example of file location:
 
 	ThinkDiag+: Android > data > com.us.thindiag_plus > files > ThinkCar > ThinDiag > images 
 	Launch x431 euro tab II: cnlaunch > X431EUROTABII images
-
+	ThinkCar: ThinkCar> ThinkTool> images 
 
 
 ​I gathered data from Google, used Gemini, added a bit of my own brainpower, and combined it all into one package to make it as simple as possible. Therefore, there is no need to install any supporting software.
