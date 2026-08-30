@@ -26,6 +26,9 @@ Example of file location:
 	Topdon Phoenix smart: ThinkCar > ToolPro > images 
 
 
+<img width="447" height="250" alt="preview" src="https://github.com/user-attachments/assets/c6ca8994-6489-4fcf-8a3c-b079211336fa" />
+
+
 ​I gathered data from Google, used Gemini, added a bit of my own brainpower, and combined it all into one package to make it as simple as possible. Therefore, there is no need to install any supporting software.
 
 https://github.com/ucukertz/x431-to-csv
