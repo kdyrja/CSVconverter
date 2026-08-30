@@ -1,4 +1,4 @@
-# CSVconverter-
+# CSVconverter
 Easily convert Launch, Topdon, Autel, and ThinkDiag live data to CSV format.
 
 ​There is no need to install anything.
