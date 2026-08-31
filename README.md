@@ -24,6 +24,7 @@ Example of file location:
 	Launch x431 euro tab II: cnlaunch > X431EUROTABII images
 	ThinkCar: Thinkcar > Think Tool > images 
 	Topdon Phoenix smart: ThinkCar > ToolPro > images 
+	Ancel FX6100: Ancel > DS > images 
 
 
 <img width="447" height="250" alt="preview" src="https://github.com/user-attachments/assets/c6ca8994-6489-4fcf-8a3c-b079211336fa" />
